@@ -1,0 +1,17 @@
+{
+  "name": "realtime-file-transfer",
+  "version": "1.0.0",
+  "description": "This project enables **real-time bidirectional file transfer** over **WebSockets**, allowing users to:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.5",
+    "ws": "^8.18.0"
+  }
+}

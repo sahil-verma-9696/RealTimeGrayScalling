@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-Time File Processing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Real-Time Image Processing</h2>
+        <input type="file" id="fileInput" accept="image/*">
+        <button id="sendBtn">Upload & Process</button>
+        <progress id="progressBar" value="0" max="100"></progress>
+        <p id="status"></p>
+        
+        <div class="image-preview">
+            <h3>Original Image</h3>
+            <img id="originalImage" src="" alt="Original">
+        </div>
+
+        <div class="image-preview">
+            <h3>Processed Image</h3>
+            <img id="processedImage" src="" alt="Processed">
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
