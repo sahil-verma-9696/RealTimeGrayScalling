@@ -175,5 +175,5 @@ This project is licensed under the **MIT License**.
 
 ## ✨ Author
 
-**Sahil Verma** - [GitHub](https://github.com/sahil-verma) | [Email](mailto\:sahils.verma.1000@gmail.com)
+**Sahil Verma** - [GitHub](https://github.com/sahil-verma-9696) | [Email](mailto\:sahils.verma.1000@gmail.com)
 
